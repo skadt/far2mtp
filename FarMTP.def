@@ -1,0 +1,17 @@
+LIBRARY FarMTP
+EXPORTS
+  GetMinFarVersionW
+  SetStartupInfoW
+  GetPluginInfoW
+  OpenPluginW
+  ClosePluginW
+  GetOpenPluginInfoW
+  GetFindDataW
+  FreeFindDataW
+  SetDirectoryW
+  GetFilesW
+  PutFilesW
+  DeleteFilesW
+  MakeDirectoryW
+  ProcessKeyW
+  ExitFARW
